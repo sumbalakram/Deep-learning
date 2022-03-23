@@ -7,7 +7,8 @@ Basic projects of Machine and Deep Learning
 - Face Recognition and verification using NN
 - Face Recognition and verification using CNN
 - PCA Implementation
-- 
+- Sentiment Analysis using Sequence models
+- Image Classification
 
 
 
